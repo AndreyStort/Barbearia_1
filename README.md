@@ -2,6 +2,8 @@
 
 ## 📌 Metadados do Projeto
 
+- **Nomes dos alunos e RGM**
+  
 | Nomes | RGM |
 |---|---|
 | **Andrey Rosalvino Silva Stort** | *47926414* |
@@ -10,16 +12,9 @@
 | **Eduardo Enrique Ometto** | *48366609* |
 | **Pedro Henrique Campos Correia** | *48290262* |
 
-Andrey Rosalvino Silva Stort - 47926414
-Carlos Eduardo Candido e Silva - 47852933
-Caio Victor da Silva Nascimento - 48071145
-Eduardo Enrique Ometto - 48366609
-Pedro Henrique Campos Correia - 48290262
 ---
 
 # 1. 🏢 Caracterização da Organização
-
-> **Dimensão Conceitual — 7,5%**
 
 ## 1.1 🏪 Identificação e natureza da organização
 
