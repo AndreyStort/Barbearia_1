@@ -2,10 +2,13 @@
 
 ## 📌 Metadados do Projeto
 
-| Informação | Dados |
+| Nomes | RGM |
 |---|---|
-| **Nomes dos alunos** | *Preencher* |
-| **RGM** | *Preencher* |
+| **Andret** | *Preencher* |
+| **Nome do aluno** | *Preencher* |
+| **Nome do aluno** | *Preencher* |
+| **Nome do aluno** | *Preencher* |
+| **Nome do aluno** | *Preencher* |
 
 ---
 
@@ -100,19 +103,19 @@ Entre os principais gastos estão:
 
 | **Despesa** | **Classificação** | **Valor mensal** |
 |:---|:---:|---:|
-| 🏠 Aluguel do estabelecimento | Fixo | **R$ *preencher*** |
-| 💧 Conta de água | Variável | **R$ *preencher*** |
-| ⚡ Conta de energia elétrica | Variável | **R$ *preencher*** |
-| 🌐 Internet | Fixo | **R$ *preencher*** |
-| 🪒 Navalhas | Variável | **R$ *preencher*** |
-| 🧴 Shampoo | Variável | **R$ *preencher*** |
-| 🧴 Condicionador | Variável | **R$ *preencher*** |
-| 📦 Outros materiais e produtos | Variável | **R$ *preencher*** |
-| **💵 TOTAL MENSAL** | **—** | **R$ *preencher*** |
+| 🏠 Aluguel do estabelecimento | Fixo | **R$ *700,00 / Mês*** |
+| 💧 Conta de água | Fixo | **R$ *250,00 / Mês*** |
+| ⚡ Conta de energia elétrica | Fixo | **R$ *300,00 / Mês*** |
+| 🌐 Internet | Fixo | **R$ *80,00 / Mês*** |
+| 🪒 Navalhas | Variável | **R$ *100,00 / Mês*** |
+| 🧴 Shampoo | Variável | **R$ *40,00 / Mês*** |
+| 🧴 Condicionador | Variável | **R$ *40,00 / Mês*** |
+| 📦 Outros materiais e produtos | Variável | **R$ *150,00 / Mês*** |
+| **💵 TOTAL MENSAL** | **—** | **R$ *1.660,00 / Mês*** |
 
 Os gastos podem ser classificados principalmente em **custos fixos** e **custos variáveis**.
 
-Os custos fixos são aqueles que tendem a permanecer relativamente estáveis, independentemente da quantidade de clientes atendidos, como **aluguel e internet**.
+Os custos fixos são aqueles que tendem a permanecer relativamente estáveis, independentemente da quantidade de clientes atendidos, como **aluguel, internet e contas, como água e luz**.
 
 Já os custos variáveis podem sofrer alterações de acordo com a quantidade de atendimentos e o consumo de materiais. Entre eles estão **navalhas, shampoo e condicionador**.
 
@@ -157,6 +160,13 @@ Para o proprietário, são registrados:
 
 Para o funcionário, são registradas as mesmas informações, com o acréscimo de uma coluna denominada **"Porcentagem"**, na qual é registrado o valor correspondente a **50% do serviço realizado**, conforme o modelo de remuneração adotado pela empresa.
 
+| **Informação registrada** |
+|:---|
+| Nome do cliente |
+| Serviço realizado |
+| Forma de pagamento |
+| Porcentagem 50% |
+| Total realizado no dia |
 ---
 
 ### 1.3.1 ❗ Dificuldades encontradas durante o preenchimento da planilha
