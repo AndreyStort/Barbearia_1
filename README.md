@@ -4,12 +4,17 @@
 
 | Nomes | RGM |
 |---|---|
-| **Andret** | *Preencher* |
-| **Nome do aluno** | *Preencher* |
-| **Nome do aluno** | *Preencher* |
-| **Nome do aluno** | *Preencher* |
-| **Nome do aluno** | *Preencher* |
+| **Andrey Rosalvino Silva Stort** | *47926414* |
+| **Carlos Eduardo Candido e Silva** | *47852933* |
+| **Caio Victor da Silva Nascimento** | *48071145* |
+| **Eduardo Enrique Ometto** | *48366609* |
+| **Pedro Henrique Campos Correia** | *48290262* |
 
+Andrey Rosalvino Silva Stort - 47926414
+Carlos Eduardo Candido e Silva - 47852933
+Caio Victor da Silva Nascimento - 48071145
+Eduardo Enrique Ometto - 48366609
+Pedro Henrique Campos Correia - 48290262
 ---
 
 # 1. 🏢 Caracterização da Organização
