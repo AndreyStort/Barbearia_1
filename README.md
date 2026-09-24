@@ -250,7 +250,7 @@ A partir desse problema, o projeto poderá propor uma solução que facilite o r
 
 ---
 
-# 2 📌 Processos de Negócio
+# 2 🎯 Processos de Negócio
 
 Os processos de negócio da Barbearia Ferrari estão relacionados principalmente ao atendimento dos clientes, registro dos serviços realizados, controle dos pagamentos, cálculo dos valores destinados ao funcionário e controle das despesas do estabelecimento.
 
@@ -323,7 +323,7 @@ Registro concluído
 
 ---
 
-# 2.3 📌 Processo de pagamento e fechamento do atendimento
+# 2.3 🎯 Processo de pagamento e fechamento do atendimento
 
 Após a realização do serviço, o cliente realiza o pagamento utilizando uma das formas aceitas pela barbearia.
 
@@ -411,7 +411,7 @@ Realizar fechamento diário
 
 ---
 
-# 2.6 📌 Processo de controle das despesas
+# 2.6 🎯 Processo de controle das despesas
 
 Além das receitas obtidas com os serviços, a barbearia possui despesas necessárias para seu funcionamento.
 
@@ -492,7 +492,7 @@ Os requisitos apresentados nesta seção foram definidos a partir das necessidad
 
 ---
 
-# 3.1 📌 Requisitos Funcionais
+# 3.1 🎯 Requisitos Funcionais
 
 Os requisitos funcionais representam as funções que o sistema deverá executar.
 
@@ -538,7 +538,7 @@ As regras de negócio representam as condições que devem ser respeitadas pelo 
 
 ---
 
-# 4.1 📌 Regras operacionais
+# 4.1 🎯 Regras operacionais
 
 Código	Regra de negócio
 RN01	Todo atendimento realizado deve possuir um serviço registrado.
@@ -584,7 +584,7 @@ O dicionário de dados apresenta as principais entidades e atributos identificad
 
 ---
 
-# 5.1 📌 Entidade: Cliente
+# 5.1 🎯 Entidade: Cliente
 
 Atributo	Descrição	Regra de negócio associada
 id_cliente	Identificador único do cliente	Deve ser único e obrigatório
@@ -962,4 +962,5 @@ A Inteligência Artificial foi utilizada como ferramenta de apoio, sendo as info
 As decisões finais sobre processos, requisitos, regras de negócio e modelagem foram analisadas e adaptadas pela equipe de acordo com a realidade da organização estudada.
 
 ---
+
 
