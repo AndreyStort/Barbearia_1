@@ -665,64 +665,48 @@ Despesa	Representa os gastos necessários para o funcionamento da barbearia.
 
 Cliente
 id_cliente
-
 nome
-
 telefone
-
 data_cadastro
 
 Funcionário
 id_funcionario
-
 nome
-
 porcentagem
-
 status
 
 Serviço
 id_servico
-
 nome
-
 valor
-
 tipo
-
 status
 
 Atendimento
 id_atendimento
-
 data
-
 hora
-
 id_cliente
-
 id_funcionario
-
 id_servico
-
 valor
-
 forma_pagamento
-
 valor_funcionario
 
 Despesa
 id_despesa
-
 descricao
-
 categoria
-
 valor
-
 data
-
 tipo
+
+Barbearia
+id_barbearia
+nome
+endereco
+telefone
+data_fundacao
 
 ---
 
@@ -814,6 +798,8 @@ SERVIÇO
 ATENDIMENTO
 
 DESPESA
+
+BARBEARIA
 
 ---
 
