@@ -1,6 +1,6 @@
 # 📋 Projeto — Barbearia Ferrari
 
-## 📌 Metadados do Projeto
+## Metadados do Projeto
 
 - **Nomes dos alunos e RGM**
   
@@ -14,9 +14,9 @@
 
 ---
 
-# 1. 🏢 Caracterização da Organização
+# 1.Caracterização da Organização
 
-## 1.1 🏪 Identificação e natureza da organização
+## 1.1 Identificação e natureza da organização
 
 **Empresa escolhida:** Barbearia Ferrari
 
@@ -24,7 +24,7 @@ A **Barbearia Ferrari** é uma empresa do setor de serviços, voltada para cuida
 
 ---
 
-## 1.2 📊 Contexto, estrutura e funcionamento da organização
+## 1.2 Contexto, estrutura e funcionamento da organização
 
 A Barbearia Ferrari é uma empresa com **fins lucrativos**, composta pelo proprietário e **1 funcionário**.
 
@@ -38,21 +38,21 @@ O **agendamento de horários** é utilizado principalmente em períodos específ
 
 ---
 
-### 1.2.1 ✂️ Serviços tradicionais oferecidos e valores praticados
+### 1.2.1 Serviços tradicionais oferecidos e valores praticados
 
 A Barbearia Ferrari oferece diferentes serviços relacionados ao corte de cabelo, barba e cuidados estéticos.
 
 | **Serviço** | **Valor** |
 |:---|---:|
-| ✂️ Corte | **R$ 35,00** |
-| 🧔 Barba | **R$ 25,00** |
+| Corte | **R$ 35,00** |
+| Barba | **R$ 25,00** |
 | Cavanhaque | **R$ 15,00** |
 | Bigode | **R$ 10,00** |
 | Sobrancelha | **R$ 5,00** |
 
 ---
 
-### 1.2.2 💈 Serviços especializados com aplicação de química
+### 1.2.2 Serviços especializados com aplicação de química
 
 Além dos serviços tradicionais, a barbearia também oferece serviços que envolvem aplicação de produtos químicos.
 
@@ -67,7 +67,7 @@ Esses serviços são realizados **juntamente com o corte** e não são realizado
 
 ---
 
-### 1.2.3 🕐 Dias e horários de funcionamento
+### 1.2.3 Dias e horários de funcionamento
 
 A Barbearia Ferrari funciona regularmente de **segunda-feira a sábado**.
 
@@ -80,7 +80,7 @@ Em períodos específicos, como **feriados e final de ano**, a barbearia pode tr
 
 ---
 
-### 1.2.4 💳 Formas de pagamento disponibilizadas aos clientes
+### 1.2.4 Formas de pagamento disponibilizadas aos clientes
 
 A Barbearia Ferrari disponibiliza diferentes formas de pagamento para facilitar o atendimento aos clientes.
 
@@ -95,7 +95,7 @@ O registro correto da forma de pagamento utilizada em cada atendimento é import
 
 ---
 
-### 1.2.5 💰 Principais gastos e custos para o funcionamento da barbearia
+### 1.2.5 Principais gastos e custos para o funcionamento da barbearia
 
 Para manter suas atividades, a Barbearia Ferrari possui gastos relacionados à manutenção do estabelecimento e à realização dos serviços oferecidos aos clientes.
 
@@ -103,15 +103,15 @@ Entre os principais gastos estão:
 
 | **Despesa** | **Classificação** | **Valor mensal** |
 |:---|:---:|---:|
-| 🏠 Aluguel do estabelecimento | Fixo | **R$ *700,00 / Mês*** |
-| 💧 Conta de água | Fixo | **R$ *250,00 / Mês*** |
-| ⚡ Conta de energia elétrica | Fixo | **R$ *300,00 / Mês*** |
-| 🌐 Internet | Fixo | **R$ *80,00 / Mês*** |
-| 🪒 Navalhas | Variável | **R$ *100,00 / Mês*** |
-| 🧴 Shampoo | Variável | **R$ *40,00 / Mês*** |
-| 🧴 Condicionador | Variável | **R$ *40,00 / Mês*** |
-| 📦 Outros materiais e produtos | Variável | **R$ *150,00 / Mês*** |
-| **💵 TOTAL MENSAL** | **—** | **R$ *1.660,00 / Mês*** |
+| Aluguel do estabelecimento | Fixo | **R$ *700,00 / Mês*** |
+| Conta de água | Fixo | **R$ *250,00 / Mês*** |
+| Conta de energia elétrica | Fixo | **R$ *300,00 / Mês*** |
+| Internet | Fixo | **R$ *80,00 / Mês*** |
+| Navalhas | Variável | **R$ *100,00 / Mês*** |
+| Shampoo | Variável | **R$ *40,00 / Mês*** |
+| Condicionador | Variável | **R$ *40,00 / Mês*** |
+| Outros materiais e produtos | Variável | **R$ *150,00 / Mês*** |
+| **TOTAL MENSAL** | **—** | **R$ *1.660,00 / Mês*** |
 
 Os gastos podem ser classificados principalmente em **custos fixos** e **custos variáveis**.
 
@@ -121,7 +121,7 @@ Já os custos variáveis podem sofrer alterações de acordo com a quantidade de
 
 ---
 
-### 1.2.6 🧾 Controle das despesas e materiais utilizados
+### 1.2.6 Controle das despesas e materiais utilizados
 
 O controle das despesas é importante para que a Barbearia Ferrari consiga identificar os valores necessários para manter seu funcionamento mensal.
 
@@ -143,7 +143,7 @@ O acompanhamento dessas despesas permite que o proprietário tenha uma visão ma
 
 ---
 
-# 1.3 ⚠️ Problemas e necessidades identificados no processo atual
+# 1.3 Problemas e necessidades identificados no processo atual
 
 Um dos principais problemas enfrentados pela Barbearia Ferrari está relacionado ao **registro e controle das informações em planilhas**.
 
@@ -169,7 +169,7 @@ Para o funcionário, são registradas as mesmas informações, com o acréscimo 
 | Total realizado no dia |
 ---
 
-### 1.3.1 ❗ Dificuldades encontradas durante o preenchimento da planilha
+### 1.3.1 Dificuldades encontradas durante o preenchimento da planilha
 
 O processo de preenchimento da planilha pode apresentar dificuldades durante o atendimento.
 
@@ -179,24 +179,24 @@ Essa situação pode fazer com que alguns serviços realizados durante o dia nã
 
 ---
 
-### 1.3.2 📉 Consequências geradas pela falta de registros
+### 1.3.2 Consequências geradas pela falta de registros
 
 A ausência ou atraso no registro das informações pode gerar diferentes problemas no controle da empresa.
 
 Entre as principais consequências estão:
 
-- ❌ Falta de registro de alguns serviços;
-- ❌ Dificuldade para conferir os atendimentos realizados;
-- ❌ Possíveis divergências no controle financeiro;
-- ❌ Maior dificuldade para calcular os valores destinados ao funcionário;
-- ❌ Necessidade de recuperar informações posteriormente;
-- ❌ Maior possibilidade de erros no fechamento do dia.
+- Falta de registro de alguns serviços;
+- Dificuldade para conferir os atendimentos realizados;
+- Possíveis divergências no controle financeiro;
+- Maior dificuldade para calcular os valores destinados ao funcionário;
+- Necessidade de recuperar informações posteriormente;
+- Maior possibilidade de erros no fechamento do dia.
 
 Dessa forma, identifica-se a necessidade de **melhorar o processo de registro e controle dos atendimentos**, tornando-o mais simples, rápido e confiável.
 
 ---
 
-# 1.4 🎯 Justificativa para a escolha da organização
+# 1.4 Justificativa para a escolha da organização
 
 A Barbearia Ferrari foi escolhida por apresentar uma oportunidade de melhoria relacionada principalmente ao **controle e à organização dos dados dos atendimentos**.
 
@@ -214,11 +214,11 @@ A proposta de melhoria busca proporcionar uma organização mais eficiente dos d
 
 ---
 
-# 1.5 📍 Evidências e informações de identificação da organização
+# 1.5 Evidências e informações de identificação da organização
 
 As informações abaixo foram levantadas para identificação e caracterização da Barbearia Ferrari.
 
-### 1.5.1 🏪 Informações gerais do estabelecimento
+### 1.5.1 Informações gerais do estabelecimento
 
 | **Informação** | **Dados** |
 |:---|:---|
@@ -231,7 +231,7 @@ As informações abaixo foram levantadas para identificação e caracterização
 
 ---
 
-# 1.6 📌 Resumo do cenário atual e oportunidade de melhoria
+# 1.6 Resumo do cenário atual e oportunidade de melhoria
 
 De forma geral, a Barbearia Ferrari possui um processo de atendimento simples e baseado na **ordem de chegada dos clientes**.
 
@@ -250,13 +250,13 @@ A partir desse problema, o projeto poderá propor uma solução que facilite o r
 
 ---
 
-# 2 🎯 Processos de Negócio
+# 2 Processos de Negócio
 
 Os processos de negócio da Barbearia Ferrari estão relacionados principalmente ao atendimento dos clientes, registro dos serviços realizados, controle dos pagamentos, cálculo dos valores destinados ao funcionário e controle das despesas do estabelecimento.
 
 ---
 
-# 2.1 📌 Processo de atendimento ao cliente 
+# 2.1 Processo de atendimento ao cliente 
 
 O processo de atendimento começa com a chegada do cliente à barbearia.
 
@@ -284,7 +284,7 @@ Atendimento finalizado
 
 ---
 
-# 2.2 📌 Processo de registro do serviço realizado 
+# 2.2 Processo de registro do serviço realizado 
 
 Após a realização de um serviço, as informações devem ser registradas na planilha ou no sistema.
 
@@ -323,7 +323,7 @@ Registro concluído
 
 ---
 
-# 2.3 🎯 Processo de pagamento e fechamento do atendimento
+# 2.3 Processo de pagamento e fechamento do atendimento
 
 Após a realização do serviço, o cliente realiza o pagamento utilizando uma das formas aceitas pela barbearia.
 
@@ -354,7 +354,7 @@ Atendimento encerrado
 
 ---
 
-# 2.4 📌 Processo de cálculo do valor destinado ao funcionário
+# 2.4 Processo de cálculo do valor destinado ao funcionário
 
 O funcionário recebe 50% do valor de cada serviço realizado por ele.
 
@@ -372,7 +372,7 @@ Nesse caso, o valor de R$ 17,50 corresponde ao valor destinado ao funcionário r
 
 ---
 
-# 2.5 📌 Processo de fechamento diário
+# 2.5 Processo de fechamento diário
 
 Ao final do expediente, o proprietário precisa conferir os serviços realizados durante o dia e os valores recebidos.
 
@@ -411,7 +411,7 @@ Realizar fechamento diário
 
 ---
 
-# 2.6 🎯 Processo de controle das despesas
+# 2.6 Processo de controle das despesas
 
 Além das receitas obtidas com os serviços, a barbearia possui despesas necessárias para seu funcionamento.
 
@@ -450,7 +450,7 @@ Despesa armazenada
 
 ---
 
-# 2.7 📌 Integração entre os processos
+# 2.7 Integração entre os processos
 
 Os processos da Barbearia Ferrari estão relacionados entre si.
 
@@ -486,13 +486,13 @@ O atendimento gera um serviço, que gera um pagamento e precisa ser registrado. 
               
 ---
 
-# 3. 📌 Requisitos do Sistema
+# 3. Requisitos do Sistema
 
 Os requisitos apresentados nesta seção foram definidos a partir das necessidades identificadas na Barbearia Ferrari, principalmente em relação ao controle dos atendimentos, serviços, pagamentos, funcionários e despesas.
 
 ---
 
-# 3.1 🎯 Requisitos Funcionais
+# 3.1 Requisitos Funcionais
 
 Os requisitos funcionais representam as funções que o sistema deverá executar.
 
@@ -516,7 +516,7 @@ RF16	O sistema deve permitir consultar as despesas registradas.
 
 ---
 
-# 3.2 📌 Requisitos Não Funcionais
+# 3.2 Requisitos Não Funcionais
 
 Os requisitos não funcionais definem características relacionadas à qualidade, segurança e utilização do sistema.
 
@@ -532,13 +532,13 @@ RNF08	Manutenção	O sistema deve permitir futuras alterações e melhorias sem 
 
 ---
 
-# 4. 📌 Regras de Negócio
+# 4. Regras de Negócio
 
 As regras de negócio representam as condições que devem ser respeitadas pelo sistema para que ele reflita corretamente o funcionamento da Barbearia Ferrari.
 
 ---
 
-# 4.1 🎯 Regras operacionais
+# 4.1 Regras operacionais
 
 Código	Regra de negócio
 RN01	Todo atendimento realizado deve possuir um serviço registrado.
@@ -554,7 +554,7 @@ RN10	Um atendimento não deve ser considerado concluído enquanto as informaçõ
 
 ---
 
-# 4.2 📌 Restrições Organizacionais
+# 4.2 Restrições Organizacionais
 
 A organização possui algumas características que devem ser consideradas durante o desenvolvimento do sistema.
 
@@ -576,15 +576,15 @@ Essas restrições são importantes porque o sistema deve representar o funciona
 
 ---
 
-# 5. 📌 Dicionário de Dados Conceituial (Preliminar)
+# 5. Dicionário de Dados Conceituial (Preliminar)
 
 O dicionário de dados apresenta as principais entidades e atributos identificados para o sistema da Barbearia Ferrari.
 
-⚠️ Atenção à privacidade: caso sejam utilizados exemplos de valores para demonstrar o funcionamento do sistema, esses valores devem ser fictícios. Não devem ser utilizados dados reais de clientes ou funcionários.
+Atenção à privacidade: caso sejam utilizados exemplos de valores para demonstrar o funcionamento do sistema, esses valores devem ser fictícios. Não devem ser utilizados dados reais de clientes ou funcionários.
 
 ---
 
-# 5.1 🎯 Entidade: Cliente
+# 5.1 Entidade: Cliente
 
 Atributo	Descrição	Regra de negócio associada
 id_cliente	Identificador único do cliente	Deve ser único e obrigatório
@@ -594,7 +594,7 @@ data_cadastro	Data em que o cliente foi cadastrado	Preenchimento obrigatório
 
 ---
 
- # 5.2 👨‍💼 Entidade: Funcionário
+ # 5.2 Entidade: Funcionário
  
 Atributo	Descrição	Regra de negócio associada
 id_funcionario	Identificador único do funcionário	Deve ser único e obrigatório
@@ -604,7 +604,7 @@ status	Situação do funcionário	Deve indicar se está ativo ou inativo
 
 ---
 
-# 5.3 ✂️ Entidade: Serviço
+# 5.3 Entidade: Serviço
 
 Atributo	Descrição	Regra de negócio associada
 id_servico	Identificador único do serviço	Deve ser único e obrigatório
@@ -615,7 +615,7 @@ status	Situação do serviço	Deve indicar se está disponível
 
 ---
 
-# 5.4 🧾 Entidade: Atendimento
+# 5.4 Entidade: Atendimento
 
 Atributo	Descrição	Regra de negócio associada
 id_atendimento	Identificador único do atendimento	Deve ser único
@@ -630,7 +630,7 @@ valor_funcionario	Valor destinado ao funcionário	Corresponde a 50% do serviço
 
 ---
 
-# 5.5 💰 Entidade: Despesa
+# 5.5 Entidade: Despesa
 
 Atributo	Descrição	Regra de negócio associada
 id_despesa	Identificador único da despesa	Deve ser único
@@ -642,13 +642,13 @@ tipo	Classificação da despesa	Fixa ou variável
 
 ---
 
-# 6. 🗂️ Modelagem Conceitual
+# 6. Modelagem Conceitual
 
 A modelagem conceitual foi construída a partir dos processos e necessidades identificados na Barbearia Ferrari.
 
 ---
 
-# 6.1 🏷️ Entidades reconhecidas
+# 6.1 Entidades reconhecidas
 
 Foram identificadas inicialmente as seguintes entidades:
 
@@ -661,9 +661,9 @@ Despesa	Representa os gastos necessários para o funcionamento da barbearia.
 
 ---
 
-# 6.2 🧩 Atributos e classificações
+# 6.2 Atributos e classificações
 
-👤 Cliente
+Cliente
 id_cliente
 
 nome
@@ -672,7 +672,7 @@ telefone
 
 data_cadastro
 
-👨‍💼 Funcionário
+Funcionário
 id_funcionario
 
 nome
@@ -681,7 +681,7 @@ porcentagem
 
 status
 
-✂️ Serviço
+Serviço
 id_servico
 
 nome
@@ -692,7 +692,7 @@ tipo
 
 status
 
-🧾 Atendimento
+Atendimento
 id_atendimento
 
 data
@@ -711,7 +711,7 @@ forma_pagamento
 
 valor_funcionario
 
-💰 Despesa
+Despesa
 id_despesa
 
 descricao
@@ -726,7 +726,7 @@ tipo
 
 ---
 
-# 6.3 🔗 Relacionamentos pertinentes entre as entidades
+# 6.3 Relacionamentos pertinentes entre as entidades
 
 Os principais relacionamentos identificados são:
 
@@ -770,7 +770,7 @@ A organização possui diversas despesas registradas.
 
 ---
 
-# 6.4 📐 Restrições e políticas organizacionais aplicadas ao modelo
+# 6.4 Restrições e políticas organizacionais aplicadas ao modelo
 
 O modelo deve considerar as seguintes restrições:
 
@@ -792,13 +792,16 @@ O modelo deve permitir a inclusão de novos serviços e funcionários no futuro.
 
 ---
 
-# 7. 🗺️ Diagrama Entidade-Relacionamento (DER)
+# 7. Diagrama Entidade-Relacionamento (DER)
 
 O Diagrama Entidade-Relacionamento deverá representar graficamente as entidades, seus atributos, relacionamentos e cardinalidades identificadas durante a modelagem.
 
 ---
 
-# 7.1 🏷️ Entidades principais do DER
+## Diagrama do Banco de Dados
+<img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/18ddafc3-f625-4cc3-8f4a-29a8df13750c" />
+
+# 7.1 Entidades principais do DER
 
 O diagrama deverá contemplar inicialmente:
 
@@ -814,7 +817,7 @@ DESPESA
 
 ---
 
-# 7.2 🔗 Relacionamentos e cardinalidades
+# 7.2 Relacionamentos e cardinalidades
 
 Relacionamento	Cardinalidade	Descrição
 Cliente → Atendimento	1:N	Um cliente pode possuir vários atendimentos.
@@ -823,7 +826,7 @@ Serviço → Atendimento	1:N	Um serviço pode estar presente em vários atendime
 
 ---
 
-# 7.3 📐 Representação simplificada do modelo
+# 7.3 Representação simplificada do modelo
 
 ┌───────────────┐
 │    CLIENTE    │
@@ -853,17 +856,17 @@ Serviço → Atendimento	1:N	Um serviço pode estar presente em vários atendime
 │      DESPESA      │
 └───────────────────┘
 
-📌 Observação: O DER definitivo deverá ser anexado ao projeto como imagem, contendo todas as entidades, atributos, relacionamentos e respectivas cardinalidades.
+Observação: O DER definitivo deverá ser anexado ao projeto como imagem, contendo todas as entidades, atributos, relacionamentos e respectivas cardinalidades.
 
 ---
 
-# 8. 🧠 Justificativa Técnica da Modelagem
+# 8. Justificativa Técnica da Modelagem
 
 A modelagem foi construída considerando os principais processos realizados atualmente pela Barbearia Ferrari e os problemas identificados no controle das informações.
 
 ---
 
-# 8.1 👤 Justificativa da entidade Cliente
+# 8.1 Justificativa da entidade Cliente
 
 A entidade Cliente foi criada para representar as pessoas que utilizam os serviços da barbearia.
 
@@ -871,7 +874,7 @@ Sua existência permite manter um histórico dos atendimentos realizados, possib
 
 ---
 
-# 8.2 👨‍💼 Justificativa da entidade Funcionário
+# 8.2 Justificativa da entidade Funcionário
 
 A entidade Funcionário é necessária porque os serviços podem ser realizados pelo proprietário ou pelo funcionário.
 
@@ -881,7 +884,7 @@ Por isso, o atendimento precisa identificar quem foi o responsável pela realiza
 
 ---
 
-# 8.3 ✂️ Justificativa da entidade Serviço
+# 8.3 Justificativa da entidade Serviço
 
 A entidade Serviço foi criada para centralizar os serviços oferecidos pela barbearia e seus respectivos valores.
 
@@ -889,7 +892,7 @@ Essa separação evita a necessidade de repetir informações dos serviços em d
 
 ---
 
-# 8.4 🧾 Justificativa da entidade Atendimento
+# 8.4 Justificativa da entidade Atendimento
 
 A entidade Atendimento representa o principal evento do sistema.
 
@@ -913,7 +916,7 @@ A criação dessa entidade permite organizar o histórico dos serviços realizad
 
 ---
 
-# 8.5 💰 Justificativa da entidade Despesa
+# 8.5 Justificativa da entidade Despesa
 
 A entidade Despesa foi criada para representar os gastos necessários para o funcionamento da barbearia.
 
@@ -923,7 +926,7 @@ Essa separação permite futuramente comparar as receitas dos atendimentos com o
 
 ---
 
-# 8.6 📐 Justificativa das cardinalidades
+# 8.6 Justificativa das cardinalidades
 
 As cardinalidades foram definidas de acordo com o funcionamento observado na organização.
 
@@ -937,7 +940,7 @@ Essas relações permitem que o modelo seja ampliado futuramente sem precisar mo
 
 ---
 
-# 9. 🤖 Uso de Inteligência Artificial
+# 9. Uso de Inteligência Artificial
 
 Durante o desenvolvimento deste projeto, ferramentas de Inteligência Artificial foram utilizadas como recurso de apoio à organização e documentação das informações.
 
@@ -964,3 +967,5 @@ As decisões finais sobre processos, requisitos, regras de negócio e modelagem 
 ---
 
 
+## Diagrama do Banco de Dados
+<img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/18ddafc3-f625-4cc3-8f4a-29a8df13750c" />
