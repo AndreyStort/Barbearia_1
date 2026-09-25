@@ -965,7 +965,3 @@ A Inteligência Artificial foi utilizada como ferramenta de apoio, sendo as info
 As decisões finais sobre processos, requisitos, regras de negócio e modelagem foram analisadas e adaptadas pela equipe de acordo com a realidade da organização estudada.
 
 ---
-
-
-## Diagrama do Banco de Dados
-<img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/18ddafc3-f625-4cc3-8f4a-29a8df13750c" />
