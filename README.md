@@ -201,8 +201,8 @@ A organização apresenta um bom cenário para o desenvolvimento de uma soluçã
 | **Endereço** | Rua Doutor Paulo de Queiroz, 1201 |
 | **Responsável** | Erick Ferrari de Oliveira |
 | **Telefone** | (11) 96254-7120 |
-| **Instagram/Rede social** | *\[inserir link direto do perfil, ex.: instagram.com/erickferrari...\]* |
-| **Google Maps** | O estabelecimento ainda não possui perfil atualizado no Google Meu Negócio. Como alternativa, recomenda-se anexar foto do local com data (ex.: metadado do celular) ou print de conversa com o responsável autorizando a pesquisa. |
+| **Instagram/Rede social** | *instagram.com/erickferrarii* |
+
 
 ### 1.5.2 Registro fotográfico da visita
 
