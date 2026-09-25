@@ -1,0 +1,372 @@
+<!DOCTYPE html> <html lang="pt-BR"> <head> <meta charset="UTF-8"> <title>Dicionário de Dados - Barbearia Ferrari</title> </head> <body>
+<h1>Dicionário de Dados — Barbearia Ferrari</h1>
+
+<hr>
+
+<h2>Entidade: Barbearia</h2>
+
+<p>
+    Representa a organização responsável pelos funcionários, serviços,
+    atendimentos e despesas cadastrados no sistema.
+</p>
+
+<table border="1">
+    <tr>
+        <th>Atributo</th>
+        <th>Descrição</th>
+        <th>Tipo de Dado</th>
+        <th>Regra de Negócio</th>
+    </tr>
+
+    <tr>
+        <td>PK id_barbearia</td>
+        <td>Identificador único da barbearia.</td>
+        <td>INT</td>
+        <td>Deve ser único e obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>nome</td>
+        <td>Nome da barbearia.</td>
+        <td>VARCHAR(100)</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>endereco</td>
+        <td>Endereço da barbearia.</td>
+        <td>VARCHAR(200)</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>telefone</td>
+        <td>Telefone de contato da barbearia.</td>
+        <td>VARCHAR(20)</td>
+        <td>Deve possuir formato válido.</td>
+    </tr>
+
+    <tr>
+        <td>responsavel</td>
+        <td>Nome do responsável pela barbearia.</td>
+        <td>VARCHAR(100)</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Entidade: Cliente</h2>
+
+<p>
+    Representa os clientes que utilizam os serviços da Barbearia Ferrari.
+</p>
+
+<table border="1">
+    <tr>
+        <th>Atributo</th>
+        <th>Descrição</th>
+        <th>Tipo de Dado</th>
+        <th>Regra de Negócio</th>
+    </tr>
+
+    <tr>
+        <td>PK id_cliente</td>
+        <td>Identificador único do cliente.</td>
+        <td>INT</td>
+        <td>Deve ser único e obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>nome</td>
+        <td>Nome do cliente.</td>
+        <td>VARCHAR(100)</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>telefone</td>
+        <td>Telefone do cliente.</td>
+        <td>VARCHAR(20)</td>
+        <td>Deve possuir formato válido.</td>
+    </tr>
+
+    <tr>
+        <td>data_cadastro</td>
+        <td>Data em que o cliente foi cadastrado.</td>
+        <td>DATE</td>
+        <td>Preenchimento obrigatório.</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Entidade: Funcionário</h2>
+
+<p>
+    Representa os funcionários responsáveis pela realização dos serviços
+    da barbearia.
+</p>
+
+<table border="1">
+    <tr>
+        <th>Atributo</th>
+        <th>Descrição</th>
+        <th>Tipo de Dado</th>
+        <th>Regra de Negócio</th>
+    </tr>
+
+    <tr>
+        <td>PK id_funcionario</td>
+        <td>Identificador único do funcionário.</td>
+        <td>INT</td>
+        <td>Deve ser único e obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>FK id_barbearia</td>
+        <td>Identifica a barbearia à qual o funcionário pertence.</td>
+        <td>INT</td>
+        <td>Deve estar associado a uma barbearia.</td>
+    </tr>
+
+    <tr>
+        <td>nome</td>
+        <td>Nome do funcionário.</td>
+        <td>VARCHAR(100)</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>porcentagem</td>
+        <td>Percentual recebido pelo funcionário sobre os serviços realizados.</td>
+        <td>DECIMAL(5,2)</td>
+        <td>Atualmente corresponde a 50%.</td>
+    </tr>
+
+    <tr>
+        <td>status</td>
+        <td>Situação do funcionário.</td>
+        <td>VARCHAR(20)</td>
+        <td>Deve indicar se está ativo ou inativo.</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Entidade: Serviço</h2>
+
+<p>
+    Representa os serviços oferecidos pela Barbearia Ferrari e seus
+    respectivos valores.
+</p>
+
+<table border="1">
+    <tr>
+        <th>Atributo</th>
+        <th>Descrição</th>
+        <th>Tipo de Dado</th>
+        <th>Regra de Negócio</th>
+    </tr>
+
+    <tr>
+        <td>PK id_servico</td>
+        <td>Identificador único do serviço.</td>
+        <td>INT</td>
+        <td>Deve ser único e obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>FK id_barbearia</td>
+        <td>Identifica a barbearia que oferece o serviço.</td>
+        <td>INT</td>
+        <td>Deve estar associado a uma barbearia.</td>
+    </tr>
+
+    <tr>
+        <td>nome</td>
+        <td>Nome do serviço.</td>
+        <td>VARCHAR(100)</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>valor</td>
+        <td>Valor cobrado pelo serviço.</td>
+        <td>DECIMAL(10,2)</td>
+        <td>Deve ser maior que zero.</td>
+    </tr>
+
+    <tr>
+        <td>tipo</td>
+        <td>Categoria do serviço.</td>
+        <td>VARCHAR(30)</td>
+        <td>Pode identificar serviço tradicional ou químico.</td>
+    </tr>
+
+    <tr>
+        <td>status</td>
+        <td>Situação do serviço.</td>
+        <td>VARCHAR(20)</td>
+        <td>Deve indicar se está disponível ou indisponível.</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Entidade: Atendimento</h2>
+
+<p>
+    Representa a realização de um serviço para determinado cliente,
+    identificando o funcionário responsável e as informações relacionadas
+    ao pagamento.
+</p>
+
+<table border="1">
+    <tr>
+        <th>Atributo</th>
+        <th>Descrição</th>
+        <th>Tipo de Dado</th>
+        <th>Regra de Negócio</th>
+    </tr>
+
+    <tr>
+        <td>PK id_atendimento</td>
+        <td>Identificador único do atendimento.</td>
+        <td>INT</td>
+        <td>Deve ser único e obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>FK id_cliente</td>
+        <td>Identifica o cliente relacionado ao atendimento.</td>
+        <td>INT</td>
+        <td>Deve estar associado a um cliente.</td>
+    </tr>
+
+    <tr>
+        <td>FK id_funcionario</td>
+        <td>Identifica o funcionário responsável pelo atendimento.</td>
+        <td>INT</td>
+        <td>Deve estar associado a um funcionário.</td>
+    </tr>
+
+    <tr>
+        <td>FK id_servico</td>
+        <td>Identifica o serviço realizado no atendimento.</td>
+        <td>INT</td>
+        <td>Deve estar associado a um serviço.</td>
+    </tr>
+
+    <tr>
+        <td>data</td>
+        <td>Data em que o atendimento foi realizado.</td>
+        <td>DATE</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>hora</td>
+        <td>Horário em que o atendimento foi realizado.</td>
+        <td>TIME</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>valor</td>
+        <td>Valor cobrado pelo serviço.</td>
+        <td>DECIMAL(10,2)</td>
+        <td>Deve corresponder ao valor do serviço selecionado.</td>
+    </tr>
+
+    <tr>
+        <td>forma_pagamento</td>
+        <td>Forma utilizada pelo cliente para realizar o pagamento.</td>
+        <td>VARCHAR(20)</td>
+        <td>PIX, dinheiro, débito ou crédito.</td>
+    </tr>
+
+    <tr>
+        <td>valor_funcionario</td>
+        <td>Valor destinado ao funcionário responsável pelo atendimento.</td>
+        <td>DECIMAL(10,2)</td>
+        <td>Corresponde a 50% do valor do serviço realizado.</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Entidade: Despesa</h2>
+
+<p>
+    Representa os gastos necessários para o funcionamento da Barbearia Ferrari.
+</p>
+
+<table border="1">
+    <tr>
+        <th>Atributo</th>
+        <th>Descrição</th>
+        <th>Tipo de Dado</th>
+        <th>Regra de Negócio</th>
+    </tr>
+
+    <tr>
+        <td>PK id_despesa</td>
+        <td>Identificador único da despesa.</td>
+        <td>INT</td>
+        <td>Deve ser único e obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>FK id_barbearia</td>
+        <td>Identifica a barbearia à qual a despesa pertence.</td>
+        <td>INT</td>
+        <td>Deve estar associada a uma barbearia.</td>
+    </tr>
+
+    <tr>
+        <td>descricao</td>
+        <td>Descrição da despesa.</td>
+        <td>VARCHAR(150)</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>categoria</td>
+        <td>Categoria da despesa.</td>
+        <td>VARCHAR(50)</td>
+        <td>Ex.: aluguel, água, energia, internet ou material.</td>
+    </tr>
+
+    <tr>
+        <td>valor</td>
+        <td>Valor da despesa.</td>
+        <td>DECIMAL(10,2)</td>
+        <td>Deve ser maior que zero.</td>
+    </tr>
+
+    <tr>
+        <td>data</td>
+        <td>Data em que a despesa foi registrada.</td>
+        <td>DATE</td>
+        <td>Campo obrigatório.</td>
+    </tr>
+
+    <tr>
+        <td>tipo</td>
+        <td>Classificação da despesa.</td>
+        <td>VARCHAR(20)</td>
+        <td>Deve ser fixa ou variável.</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Legenda</h2>
+
+<ul>
+    <li><strong>PK</strong> — Chave Primária</li>
+    <li><strong>FK</strong> — Chave Estrangeira</li>
+</ul>
+
+</body> </html>
