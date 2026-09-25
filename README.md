@@ -476,9 +476,9 @@ Essas restrições são importantes porque o sistema deve representar o funciona
 
 # 5. Dicionário de Dados Conceitual (Preliminar)
 
-O dicionário de dados apresenta as principais entidades e atributos identificados para o sistema da Barbearia Ferrari.
+[📖 Dicionário HTML](dicionario.html)
 
-> **Atenção à privacidade:** os valores utilizados como exemplo são **fictícios**. Não foram utilizados dados reais de clientes ou funcionários.
+O dicionário de dados apresenta as principais entidades e atributos identificados para o sistema da Barbearia Ferrari.
 
 ---
 
