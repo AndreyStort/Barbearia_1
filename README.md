@@ -189,11 +189,7 @@ A organização apresenta um bom cenário para o desenvolvimento de uma soluçã
 
 ---
 
-# 1.5 Evidências e informações de identificação da organização
-
-> ⚠️ **Ação pendente do grupo:** insira aqui pelo menos **1–2 fotos da visita ao estabelecimento** (fachada, ambiente interno, ou foto com o responsável) e o **link real** das redes sociais/site da barbearia (clicável). Essas evidências são exigidas pelo enunciado para comprovar que a organização existe e que o grupo teve acesso a ela — a tabela abaixo, sozinha, não é suficiente.
-
-### 1.5.1 Informações gerais do estabelecimento
+### 1.5 Informações gerais do estabelecimento
 
 | **Informação** | **Dados** |
 | --- | --- |
@@ -202,11 +198,6 @@ A organização apresenta um bom cenário para o desenvolvimento de uma soluçã
 | **Responsável** | Erick Ferrari de Oliveira |
 | **Telefone** | (11) 96254-7120 |
 | **Instagram/Rede social** | *instagram.com/erickferrarii* |
-
-
-### 1.5.2 Registro fotográfico da visita
-
-> ⚠️ *Inserir aqui as fotos da visita de campo (fachada do estabelecimento, ambiente interno, materiais/planilha utilizada — desde que sem dados reais de clientes visíveis).*
 
 ---
 
@@ -650,8 +641,6 @@ O Diagrama Entidade-Relacionamento representa graficamente as entidades, seus at
 
 ![diagrama]<img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/18ddafc3-f625-4cc3-8f4a-29a8df13750c" />
 
-> ⚠️ **Conferir antes da entrega:** o arquivo de imagem deve representar o modelo em **nível conceitual** (entidades, atributos e cardinalidades — notação Chen ou Crow's Foot), e não já um schema físico de banco de dados com chaves estrangeiras definidas. Confirmem também que as 6 entidades (incluindo Barbearia) e os 4 relacionamentos da tabela abaixo estão todos representados no diagrama.
-
 ---
 
 ## 7.1 Entidades principais do DER
@@ -759,8 +748,6 @@ Todas as relações identificadas são do tipo um-para-muitos (1:N), o que permi
 
 Durante o desenvolvimento deste projeto, ferramentas de Inteligência Artificial foram utilizadas como recurso de apoio à organização, estruturação e revisão da documentação. Abaixo estão registrados os usos relevantes, conforme exigido pelo enunciado.
 
-> ⚠️ **Ação pendente do grupo:** o registro abaixo documenta o uso do Claude (Anthropic) para **revisão estrutural do README** feita nesta sessão. Se o grupo também usou IA em **outras etapas** (ex.: pesquisa sobre o setor de barbearias, redação inicial dos textos, brainstorm de requisitos), duplique a tabela abaixo para cada uso, preenchendo com os prompts e respostas reais daquela etapa — não deixem a seção só com este exemplo se houve mais de um uso.
-
 ## 9.1 Revisão estrutural do README
 
 | Item | Registro |
@@ -775,5 +762,3 @@ Durante o desenvolvimento deste projeto, ferramentas de Inteligência Artificial
 | **Reflexão crítica** | A IA não teve acesso ao repositório do GitHub (bloqueado por política de robots do site) nem à imagem do DER, então não pôde validar visualmente se o diagrama final está correto — essa conferência continua sendo responsabilidade do grupo. Além disso, por não ter estado na visita de campo, a IA não pode confirmar a veracidade dos dados operacionais (preços, horários, despesas) informados pelo grupo; essas informações devem refletir fielmente o que foi observado na organização real. |
 
 ---
-
-*Se nenhuma outra ferramenta de IA foi utilizada além do uso registrado acima, o grupo deve declarar isso explicitamente substituindo o aviso no início desta seção.*
