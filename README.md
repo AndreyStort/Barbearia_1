@@ -546,8 +546,6 @@ O dicionário de dados apresenta as principais entidades e atributos identificad
 | telefone | Telefone de contato do estabelecimento | Deve possuir formato válido |
 | data_fundacao | Data de fundação/início das atividades | Preenchimento opcional |
 
-> **Nota de modelagem:** como a Barbearia Ferrari é um estabelecimento único (não há filiais), essa entidade guarda apenas dados cadastrais fixos do negócio e serve principalmente para relacionar as **despesas** ao estabelecimento. Em uma versão futura com múltiplas unidades, essa entidade ganharia mais relevância.
-
 ---
 
 # 6. Modelagem Conceitual
