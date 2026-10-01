@@ -637,7 +637,7 @@ O Diagrama Entidade-Relacionamento representa graficamente as entidades, seus at
 
 ## Diagrama Entidade-Relacionamento (conceitual)
 
-![diagrama]<img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/18ddafc3-f625-4cc3-8f4a-29a8df13750c" />
+<img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/18ddafc3-f625-4cc3-8f4a-29a8df13750c" />
 
 ---
 
