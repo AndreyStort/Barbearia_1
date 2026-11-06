@@ -14,6 +14,10 @@
 
 ---
 
+[📖 Barbearia](bd_barbearia.sql)  
+[📖 Especificações](especificacao_modelo.md)  
+[📖 Levantamento](levantamento.md)  
+
 # 1. Caracterização da Organização
 
 ## 1.1 Identificação e natureza da organização
