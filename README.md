@@ -330,21 +330,7 @@ Realizar fechamento diário
 
 # 2.6 Processo de controle das despesas
 
-Despesas: aluguel, água, energia elétrica, internet, navalhas, shampoo, condicionador e outros materiais.
-
-```
-Despesa identificada
-       ↓
-Identificação do tipo de despesa
-       ↓
-Registro do valor
-       ↓
-Registro da data
-       ↓
-Classificação da despesa
-       ↓
-Despesa armazenada
-```
+<img width="895" height="1600" alt="WhatsApp Image 2026-11-06 at 19 31 37" src="https://github.com/user-attachments/assets/cd5dcc94-177b-4fcb-bebf-508f92554614" />
 
 ---
 
@@ -585,29 +571,7 @@ A modelagem conceitual foi construída a partir dos processos e necessidades ide
 
 ## 6.3 Relacionamentos pertinentes entre as entidades
 
-```
-CLIENTE
-   │
-   │ realiza
-   ↓
-ATENDIMENTO
-   ↑
-   │ é realizado por
-   │
-FUNCIONÁRIO
-
-ATENDIMENTO
-   │
-   │ possui
-   ↓
-SERVIÇO
-
-BARBEARIA
-   │
-   │ possui
-   ↓
-DESPESA
-```
+<img width="889" height="1600" alt="WhatsApp Image 2026-11-06 at 19 31 50" src="https://github.com/user-attachments/assets/6d78690a-46ce-44b4-a787-97170bbb5250" />
 
 De forma detalhada:
 
