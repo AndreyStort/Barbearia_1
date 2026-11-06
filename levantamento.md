@@ -1,3 +1,5 @@
+ENTREVISTA COM O PROPRIETÁRIO DA BARBEARIA
+
 1. Quais serviços a barbearia oferece?
 A barbearia oferece, Corte, Barba, Cavanhaque, bigode, sobrancelha, serviços de química, como luzes, platinado, progressiva e alisamento. Os serviços de química são realizados com o corte, não são feitos separadamente.
 
@@ -63,12 +65,11 @@ Acredito que colocar os dados na planilha, já ate pensei em ter um app ou algo 
 8. Quais informações ou relatórios vocês gostariam de conseguir consultar facilmente?
 As anotações que são feitas na planilha, e o contato entre nos e os clientes.
 
- 
-Data 11/09/2026 – Dia em que foi realizada a entrevista com o Erick (Proprietário) e Vivian(Dona do local).
 <img width="1170" height="854" alt="WhatsApp Image 2026-11-06 at 20 13 55" src="https://github.com/user-attachments/assets/9e2f93ac-b49a-4bb6-8d52-f3a06f2e1fac" />
+Data 11/09/2026 – Dia em que foi realizada a entrevista com o Erick (Proprietário) e Vivian(Dona do local).
 
-Data 11/09/2026 – Bancadas de serviço.
 <img width="3024" height="4032" alt="WhatsApp Image 2026-11-06 at 20 13 54 (1)" src="https://github.com/user-attachments/assets/3cd49c84-9d8f-423f-825f-c1ffd2044b1b" />
- 
-Data 11/09/2026 – Espaço (Barbearia).
+Data 11/09/2026 – Bancadas de serviço.
+
 <img width="3024" height="4032" alt="WhatsApp Image 2026-11-06 at 20 13 54" src="https://github.com/user-attachments/assets/4c5ea718-788b-41da-9ba9-db523e4232a8" />
+Data 11/09/2026 – Espaço (Barbearia).
