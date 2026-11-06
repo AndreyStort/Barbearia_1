@@ -338,36 +338,6 @@ Realizar fechamento diário
 
 O atendimento gera um serviço, que gera um pagamento e precisa ser registrado. O serviço também gera um valor correspondente ao funcionário. Ao final do período, essas informações são utilizadas para o fechamento financeiro.
 
-```
-              ┌──────────────────────┐
-              │ Chegada do cliente   │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │ Atendimento          │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │ Serviço realizado    │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │ Pagamento            │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │ Registro atendimento │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │ Cálculo funcionário  │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │ Fechamento diário    │
-              └──────────────────────┘
-```
-
 ---
 
 # 3. Requisitos do Sistema
@@ -627,29 +597,6 @@ O Diagrama Entidade-Relacionamento representa graficamente as entidades, seus at
 
 ---
 
-## 7.3 Representação simplificada do modelo
-
-```
-┌───────────────┐
-│    CLIENTE    │
-└───────┬───────┘
-        │ 1:N
-        ↓
-┌───────────────────┐        N:1        ┌───────────────────┐
-│    ATENDIMENTO    │ ←───────────────── │    FUNCIONÁRIO    │
-└───────┬───────────┘                    └───────────────────┘
-        │ N:1
-        ↓
-┌───────────────────┐
-│      SERVIÇO      │
-└───────────────────┘
-
-┌───────────────────┐        1:N        ┌───────────────────┐
-│     BARBEARIA      │ ─────────────────→ │      DESPESA      │
-└───────────────────┘                    └───────────────────┘
-```
-
----
 
 # 8. Justificativa Técnica da Modelagem
 
